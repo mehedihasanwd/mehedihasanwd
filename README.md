@@ -1,4 +1,4 @@
-  <h1 align="left">Hi there👋, I'm Mehedi Hasan</h1>
+   <h1 align="left">Hi there👋, I'm Mehedi Hasan</h1>
   <h3 align="left">I'm a JavaScript Developer from Dhaka, Bangladesh.</h3>
 
   <p align="left"> <img
@@ -13,8 +13,8 @@
   Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehedihasanwd/)](https://www.linkedin.com/in/mehedihasanwd/)
   [![Email
   Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hellomehediwd@gmail.com)](mailto:hellomehediwd@gmail.com)
-  ![Dev.to
-  blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)(https://dev.to/mehedihasanwd)
+  [![Dev.to blog
+  Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mehedihasanwd)
 
 
   ## ✨ Development Skills:
