@@ -13,9 +13,8 @@
   Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehedihasanwd/)](https://www.linkedin.com/in/mehedihasanwd/)
   [![Email
   Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hellomehediwd@gmail.com)](mailto:hellomehediwd@gmail.com)
-  <a href="https://dev.to/mehedihasanwd" target="blank"><img align="center"
-      src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="mehedihasanwd" height="30" width="40" /></a>
-  ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+  ![Dev.to
+  blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)(https://dev.to/mehedihasanwd)
 
 
   ## ✨ Development Skills:
