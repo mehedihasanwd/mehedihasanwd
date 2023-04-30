@@ -1,4 +1,4 @@
- <h1 align="left">Hi there👋, I'm Mehedi Hasan</h1>
+<h1 align="left">Hi there👋, I'm Mehedi Hasan</h1>
   <h3 align="left">I'm a JavaScript Developer from Dhaka, Bangladesh.</h3>
 
   <p align="left"> <img
@@ -8,18 +8,19 @@
   #### 📋 Find me at:
 
   [![Linkedin
-  Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehedihasanwd/)](https://www.linkedin.com/in/mehedihasanwd/)
+  Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehedihasanwd/)](https://www.linkedin.com/in/mehedihasanwd/)
   [![Email
-  Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hellomehediwd@gmail.com)](mailto:hellomehediwd@gmail.com)
+  Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hellomehediwd@gmail.com)](mailto:hellomehediwd@gmail.com)
   [![Dev.to blog
-  Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mehedihasanwd)
+  Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/mehedihasanwd)](https://dev.to/mehedihasanwd)
   [![Instagram
-  Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/mehedihasanwd)](https://instagram.com/mehedihasanwd)
+  Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mehedihasanwd)](https://instagram.com/mehedihasanwd)
 
 
   ## ✨ Development Skills:
-  - <b>Languages：</b> ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-LightGray?style=flat-circle&logo=typescript)
+  - <b>Languages：</b>
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
   - <b> Client Side :
   </b>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
