@@ -1,4 +1,4 @@
-<h1 align="left">Hi there👋, I'm Mehedi Hasan</h1>
+ <h1 align="left">Hi there👋, I'm Mehedi Hasan</h1>
   <h3 align="left">I'm a JavaScript Developer from Dhaka, Bangladesh.</h3>
 
   <p align="left"> <img
@@ -22,14 +22,17 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-LightGray?style=flat-circle&logo=typescript)
 
   - <b> Client Side : </b> ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5)
-  ![SCSS](https://img.shields.io/badge/-SASS-pink?style=flat-circle&logo=sass)
-  ![Styled-Components](https://img.shields.io/badge/styled--components-v4.4.1-orange)
-  ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![Styled
+  Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-  - <b> Server Side : </b> ![Node](https://img.shields.io/badge/-NodeJs-green?style=flat-circle&logo=node)
-  ![Node](https://img.shields.io/badge/-Express-LightGray?style=flat-circle&logo=express)
+  - <b> Server Side : </b>
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-  - <b>Database : </b> ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-circle&logo=mongoDB)
+  - <b>Database : </b>
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
   - <b>Tools ：</b> ![Visual Studio
   Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
