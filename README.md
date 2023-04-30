@@ -5,7 +5,7 @@
       src="https://komarev.com/ghpvc/?username=mehedihasanwd&label=Profile%20views&color=0e75b6&style=flat"
       alt="mehedihasanwd" /> </p>
 
-  #### 📋 Find me at:
+  #### 📲 Find me at:
 
   [![Linkedin
   Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehedihasanwd/)](https://www.linkedin.com/in/mehedihasanwd/)
