@@ -17,7 +17,7 @@
   Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mehedihasanwd)](https://instagram.com/mehedihasanwd)
 
 
-  ## ✨ Development Skills:
+  ## ✨ My Skills:
   - <b>Languages：</b>
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
