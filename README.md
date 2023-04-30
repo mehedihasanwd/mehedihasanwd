@@ -1,4 +1,4 @@
- <h1 align="left">Hi there👋, I'm Mehedi Hasan</h1>
+<h1 align="left">Hi there👋, I'm Mehedi Hasan</h1>
   <h3 align="left">I'm a JavaScript Developer from Dhaka, Bangladesh.</h3>
 
   <p align="left"> <img
@@ -21,8 +21,8 @@
   - <b>Languages：</b> ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-LightGray?style=flat-circle&logo=typescript)
 
-  - <b> Client Side : </b> ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  - <b> Client Side :
+  </b>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![Styled
   Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
