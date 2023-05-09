@@ -1,5 +1,5 @@
 <h1 align="left">Hi there👋, Nice to meet you! 💖</h1>
-  <h3 align="left">I'm Mehedi Hasan, a JavaScript Developer from Dhaka, Bangladesh.</h3>
+  <h3 align="left">I'm Mehedi Hasan, a Web Application Developer from Dhaka, Bangladesh.</h3>
 
   <p align="left"> <img
       src="https://komarev.com/ghpvc/?username=mehedihasanwd&label=Profile%20views&color=0e75b6&style=flat"
