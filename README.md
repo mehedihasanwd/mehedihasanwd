@@ -7,10 +7,10 @@
 
   #### 📲 Find me at:
 
-  [![Linkedin
-  Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehedihasanwd/)](https://www.linkedin.com/in/mehedihasanwd/)
   [![Email
   Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hellomehediwd@gmail.com)](mailto:hellomehediwd@gmail.com)
+  [![Linkedin
+  Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehedihasanwd/)](https://www.linkedin.com/in/mehedihasanwd/)
 
   ## 💎 What I do:
  📄 <b>Languages：</b><br>
