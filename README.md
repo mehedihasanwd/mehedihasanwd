@@ -13,7 +13,7 @@
   Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hellomehediwd@gmail.com)](mailto:hellomehediwd@gmail.com)
 
   ## 💎 What I do:
- 📄 <b>Languages：</b><br>
+ 📄 <h3>Languages：</h3><br>
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
